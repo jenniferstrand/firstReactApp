@@ -9,7 +9,7 @@ import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 
-import logo from './public/images/logo.png';
+import logo from '../public/images/logo.png';
 
 export default function CustomHeader() {
   const [anchorEl, setAnchorEl] = React.useState(null);
