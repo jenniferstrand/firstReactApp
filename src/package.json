@@ -1,0 +1,17 @@
+{
+  "title": "MenuListComposition Material Demo",
+  "name": "MenuListComposition Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.2/docs/src/pages/components/menus/MenuListComposition.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.3",
+    "@mui/icons-material": "5.2.0",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
